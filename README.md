@@ -101,3 +101,5 @@ Below is an outline of each script along with the input and output files.
   - LaTeX tables (saved in the `tables/` folder)
 
 ---
+
+Please contact arianna.salazarmiranda@yale.edu if you have questions regarding the code or data. 
