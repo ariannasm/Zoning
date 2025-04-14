@@ -62,3 +62,5 @@ This folder contains the data files used as inputs for the final tables and figu
   *Dropbox Link:* [avg_embeddings_municode_bird.pkl](https://www.dropbox.com/scl/fi/9pp4chgvz0ctq11m1mm8h/avg_embeddings_municode_bird.pkl?rlkey=ocemigvzj2ytp5ucry5sqxl3t&dl=0)
 
 ---
+
+**Note:** Download the relevant datasets from the respective links and place them into the `data` folder
