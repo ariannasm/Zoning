@@ -1,5 +1,3 @@
-# Data for the Paper
-
 **An AI-based analysis of zoning reforms in US cities**  
 *Salazar-Miranda, A., Talen, E.*
 
@@ -34,7 +32,7 @@ This folder contains the data files used as inputs for the final tables and figu
   *Dropbox Link:* [codes_merge_census.csv](https://www.dropbox.com/scl/fi/iaijfd3izipkn5lv3fmhl/codes_merge_census.csv?rlkey=ptm1t02fsu3okl8lftp1v5g1g&dl=0)
 
 - **tl_2021_us_uac10.shp**  
-  *Description:* Census UAC shapefile used in Figure 4.  
+  *Description:* Census urban area shapefile used in Figure 4.  
   *Dropbox Link:* [tl_2021_us_uac10.shp](https://www.dropbox.com/scl/fo/0ullzuaeiwp3qby8ktjcm/ADHVoHWIzhrqgOnz9BmZsHo?rlkey=tbmjg0m3ulg21omj81vzwzi09&dl=0)
 
 - **US_place_2010.shp**  
@@ -46,20 +44,35 @@ This folder contains the data files used as inputs for the final tables and figu
   *Dropbox Link:* [usa_contour.shp](https://www.dropbox.com/scl/fo/6kk9caei81ie40b70d1sa/AH98xQ-SWsK5m3ougn2GEVA?rlkey=qm8a5k5yob0rwqdbemuuk2i3u&dl=0)
 
 - **zoning_docs_bird_chunked.pkl**  
-  *Description:* Pickle file containing the chunked text of zoning documents used for descriptive statistics in Figure S1.  
+  *Description:* Chunked text of zoning documents used for descriptive statistics in Figure S1.  
   *Dropbox Link:* [zoning_docs_bird_chunked.pkl](https://www.dropbox.com/scl/fi/oh90oenszurmrupq7t1h9/zoning_docs_bird_chunked.pkl?rlkey=9jldzihes5t4e39c1uk68kyg1&dl=0)
 
 - **avg_embeddings_bird_nu.pkl**  
-  *Description:* Precomputed document embeddings for FBC (New Urbanism) documents (input for Figure 1).  
+  *Description:* Precomputed document embeddings for FBC (New Urbanism) documents in Figure 1.  
   *Dropbox Link:* [avg_embeddings_bird_nu.pkl](https://www.dropbox.com/scl/fi/p1aympl5vpy5hptm2djfo/avg_embeddings_bird_nu.pkl?rlkey=z5pev010tzn8x4q91h60vd8uw&dl=0)
 
 - **avg_embeddings_bird_drei.pkl**  
-  *Description:* Precomputed document embeddings for FBC (Driehaus) (input for Figure 1).  
+  *Description:* Precomputed document embeddings for FBC (Driehaus) in Figure 1.  
   *Dropbox Link:* [avg_embeddings_bird_drei.pkl](https://www.dropbox.com/scl/fi/msay3sgtba9gonqlfvpb0/avg_embeddings_bird_drei.pkl?rlkey=aef1ocexgx2bcs9yt6zp7mq8s&dl=0)
 
 - **avg_embeddings_municode_bird.pkl**  
-  *Description:* Precomputed document embeddings for zoning documents (input for Figure 1).  
+  *Description:* Precomputed document embeddings for zoning documents in Figure 1.  
   *Dropbox Link:* [avg_embeddings_municode_bird.pkl](https://www.dropbox.com/scl/fi/9pp4chgvz0ctq11m1mm8h/avg_embeddings_municode_bird.pkl?rlkey=ocemigvzj2ytp5ucry5sqxl3t&dl=0)
+
+
+- **chatgpt_guidelines_setbacks/**  
+  *Description:* Contains ChatGPT outputs for zoning setbacks. This folder includes two files:  
+  - `chatgpt_guidelines_zoning.csv`: ChatGPT output for the full municode zoning corpus (setbacks) used for Figure 2.  
+  - `chatgpt_guidelines_nu.csv`: ChatGPT output for FBC guidelines (setbacks) used for the FBC word cloud (setbacks) in Figure 2.  
+  *Dropbox Folder Link:*  
+  [chatgpt_guidelines_setbacks](https://www.dropbox.com/scl/fo/xgght6w0z7iq5xi9mpeuf/AHsc9R6d9X5g6CBSQxj3neY?rlkey=ovhdko35pv6718grgeuhqcz2d&dl=0)
+
+- **chatgpt_guidelines_far/**  
+  *Description:* Contains ChatGPT outputs for zoning FAR. This folder includes two files:  
+  - `chatgpt_guidelines_zoning.csv`: ChatGPT output for the full municode zoning corpus (FAR) used for Figure 2.  
+  - `chatgpt_guidelines_nu.csv`: ChatGPT output for FBC guidelines (FAR) used for the FBC word cloud (FAR) in Figure 2.  
+  *Dropbox Folder Link:*  
+  [chatgpt_guidelines_far](https://www.dropbox.com/scl/fo/gze5du7ualacs1x41anfi/AMWVqwHmSxIjTKP0j0__Nzc?rlkey=by7pmjt9ednsa6uykdnks137x&dl=0)
 
 ---
 
