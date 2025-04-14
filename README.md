@@ -2,7 +2,7 @@
 **"An AI-based analysis of zoning reforms in US cities"**
 *Salazar-Miranda, A., Talen, E.*
 
-Below is an outline of each script along with the input and output files to reproduce the figures and tables of the paper. 
+Below is an outline of each script along with the input and output files to reproduce the figures and tables in the paper. 
 
 ---
 
