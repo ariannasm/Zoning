@@ -1,7 +1,8 @@
 
-This replication package reproduces the figures and tables for **"An AI-based analysis of zoning reforms in US cities"** by *Salazar-Miranda, A., Talen, E.*
+**"An AI-based analysis of zoning reforms in US cities"**
+*Salazar-Miranda, A., Talen, E.*
 
-Below is an outline of each script along with the input and output files.
+Below is an outline of each script along with the input and output files to reproduce the figures and tables of the paper. 
 
 ---
 
