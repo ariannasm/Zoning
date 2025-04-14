@@ -17,7 +17,7 @@ import seaborn as sns
 #-------------------------------------------------------------------------------#
                          # Define base directories #
 #-------------------------------------------------------------------------------#
-BASE_DIR = ""  # Update as needed
+BASE_DIR = ""  # Replication package base folder
 DATA_DIR = os.path.join(BASE_DIR, "data")
 FIGURES_DIR = os.path.join(BASE_DIR, "figures")
 
